@@ -42,8 +42,8 @@ Hardhat is more powerfull than remixIDE.
 ## Created contracts:
 
 NFT (without image):
-https://goerli.etherscan.io/address/0x38700e9d566f48c9fe64bb0e6874cb4960a9ae63
-https://testnets.opensea.io/es/collection/learnweb3-s-nft-bofrijaqzt
+- https://goerli.etherscan.io/address/0x38700e9d566f48c9fe64bb0e6874cb4960a9ae63
+- https://testnets.opensea.io/es/collection/learnweb3-s-nft-bofrijaqzt
 
 "HelloWeb3"
-https://goerli.etherscan.io/address/0x63e6fbc70a5480ef157902f41d2a7c3d92a14cc0
+- https://goerli.etherscan.io/address/0x63e6fbc70a5480ef157902f41d2a7c3d92a14cc0
