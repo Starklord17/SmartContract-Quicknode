@@ -12,7 +12,7 @@ The steps I took to complete this task include:
 3. Requested Goerli Testnet Ether from the [Chainlink](https://faucets.chain.link/) faucet and made sure the transaction was sent to the MetaMask wallet.
 4. Set up the [QuickNode endpoint](https://github.com/Starklord17/SmartContract-Quicknode/tree/main/screenshots/endpoint.png).
 5. Created the smart contract (NFTee.sol and helloWeb3.sol), deploy.js, hardhat.config.js, and .env file for securing the private key and QuickNode URL.
-6. After a successful deployment, confirmed the [deployment of the contract on EtherScan](https://github.com/Starklord17/SmartContract-Quicknode/blob/main/screenshot/etherscan.png).
+6. After a successful deployment, confirmed the [deployment of the contract on EtherScan](https://github.com/Starklord17/SmartContract-Quicknode/blob/main/screenshots/etherscan.png).
 
 ## Created contracts:
 
