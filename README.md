@@ -1,6 +1,6 @@
 # SmartContract-Quicknode
 
-##[LearnWeb3](https://learnweb3.io/) bounty submission for [Deploying a Smart Contract Using QuickNode's RPC's](https://learnweb3.io/bounties/9bff5d28-e773-4e7d-a32a-1306058af0f1)
+[LearnWeb3](https://learnweb3.io/) bounty submission for [Deploying a Smart Contract Using QuickNode's RPC's](https://learnweb3.io/bounties/9bff5d28-e773-4e7d-a32a-1306058af0f1)
 
 
 >In this project, I built a smart contract with an NFT without an image and another one with a "Hello Web3" using HardHat, JavaScript, and Solidity. I  deployed the smart contract to QuickNode using Ethereum Goerli as my test network.
