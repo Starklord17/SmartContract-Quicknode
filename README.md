@@ -4,7 +4,6 @@
 
 
 >In this project, I built a smart contract with an NFT without an image and another one with a "Hello Web3" using HardHat, JavaScript, and Solidity. I  deployed the smart contract to QuickNode using Ethereum Goerli as my test network.
-To complete this task, I throughly reviewed LearnWeb3's Freshman practicals (building a dApp, cryptocurrency, and NFT), as well as QuickNode's documentation and tutorial on building and deploying a smart contract using HardHat.
 
 The steps I took to complete this task include:
 1. Installed HardHat and other dependencies, and created a JavaScript project. More info at Hardhat.md
